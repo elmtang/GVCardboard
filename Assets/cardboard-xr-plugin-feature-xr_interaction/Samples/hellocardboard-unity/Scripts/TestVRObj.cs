@@ -13,6 +13,6 @@ public class TestVRObj : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //update Update function
     }
 }
